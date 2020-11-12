@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pyproj
+*.sln
+tutorials/basic-text-classification/.vs/basic-text-classification/v15/.suo
